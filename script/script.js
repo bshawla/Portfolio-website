@@ -1,3 +1,5 @@
+// This part of the code was used to add the fuction on the every button and those on the nav bars
+
 // add class navbarDark on navbar scroll
 const header = document.querySelector('.navbar');
 console.log(header)
