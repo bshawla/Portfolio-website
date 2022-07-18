@@ -1,6 +1,6 @@
 HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 ======= 
-Click on this link for the website preview(https://62d5418e44bb7b313aaad473--stalwart-speculoos-513355.netlify.app/)
+Click on this link for the website preview(https://stalwart-speculoos-513355.netlify.app/)
 
 # Tools used #
 * HTML, CSS and JavaScript
